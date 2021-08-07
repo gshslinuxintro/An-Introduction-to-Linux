@@ -13,3 +13,6 @@
 * [경기과학고등학교 리눅스 사용자 협회](https://github.com/gshslinuxintro)
 * [경기과학고등학교 리눅스 사용자 협회 오픈채팅방](https://open.kakao.com/o/gL8MCked)
 * [현재 연구용 서버 IP](http://115.23.235.135)
+
+# Wiki
+서버 및 인원에 관한 정보는 [Wiki](https://github.com/gshslinuxintro/An-Introduction-to-Linux/wiki)에서 확인하실 수 있습니다.
